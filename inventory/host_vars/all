@@ -1,2 +1,0 @@
-ansible_user = root
-ansible_private_key_file = /Users/curtis_mattoon/.ssh/id_rsa
