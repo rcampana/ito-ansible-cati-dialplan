@@ -1,0 +1,4 @@
+---
+git_repo:
+  name: surveysampling/ito-cati-asterisk-dialplan
+  checkout_dir: /etc/asterisk
