@@ -1,0 +1,8 @@
+---
+- hosts: all !localhost
+  become: yes
+  become_user: root
+  connection: ssh
+  remote_user: git
+  roles:
+    - dialplan
